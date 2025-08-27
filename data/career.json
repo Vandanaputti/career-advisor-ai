@@ -1,0 +1,32 @@
+[
+  {
+    "career": "Data Scientist",
+    "skills": ["Python", "Machine Learning", "Statistics"],
+    "average_salary": 120000,
+    "domain": "Data Science"
+  },
+  {
+    "career": "Software Engineer",
+    "skills": ["Java", "C++", "Problem Solving"],
+    "average_salary": 100000,
+    "domain": "Software Development"
+  },
+  {
+    "career": "AI Researcher",
+    "skills": ["Deep Learning", "NLP", "Research"],
+    "average_salary": 130000,
+    "domain": "Artificial Intelligence"
+  },
+  {
+    "career": "UI/UX Designer",
+    "skills": ["Wireframing", "Figma", "Creativity"],
+    "average_salary": 80000,
+    "domain": "Design"
+  },
+  {
+    "career": "Cybersecurity Analyst",
+    "skills": ["Networking", "Security", "Risk Analysis"],
+    "average_salary": 95000,
+    "domain": "Cybersecurity"
+  }
+]
