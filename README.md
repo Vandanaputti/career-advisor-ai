@@ -50,7 +50,7 @@
 
 📂 Project Structure
 
-career-advisor-ai/
+- career-advisor-ai/
 │── backend/
 │   └── main.py          # FastAPI backend (resume analyzer)
 │
