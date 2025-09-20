@@ -67,7 +67,7 @@ career-advisor-ai/
 
 1️⃣ Clone the Repository
 - git clone https://github.com/Vanduputti/career-advisor-ai.git
-  -cd career-advisor-ai
+-cd career-advisor-ai
 
 2️⃣ Backend Setup (FastAPI)
 -Make sure you have Python 3.9+ installed.
