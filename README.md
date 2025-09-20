@@ -1,13 +1,13 @@
 🚀 AI Career Strategist
 
-AI Career Strategist is an intelligent web application that helps users bridge the gap between their current skills and their career goals.
-It analyzes resumes or manually entered skills, compares them with desired job roles or skill sets, and generates a personalized strategic learning plan with timelines, projects, and course recommendations.
+- AI Career Strategist is an intelligent web application that helps users bridge the gap between their current skills and their career goals.
+- It analyzes resumes or manually entered skills, compares them with desired job roles or skill sets, and generates a personalized strategic learning plan with timelines, projects, and course recommendations.
 
 ✨ Features
 
 📄 Resume Analyzer
-Upload your PDF/DOCX resume.
-Auto-extracts text and identifies missing/essential skills.
+- Upload your PDF/DOCX resume.
+- Auto-extracts text and identifies missing/essential skills.
 
 📝 Manual Skill Entry
 Enter your skills and projects manually if you don’t want to upload a resume.
